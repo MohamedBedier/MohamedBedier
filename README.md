@@ -1,9 +1,9 @@
 <h1 align="center">Hi,I'm Mohamed Bedier 👋</h1>
-<h3 align="center">I'm a software engineering,Who is interest in automotive embedded software systems</h3>
+<h3 align="center">I'm a software engineering,Who is interesting in automotive embedded software systems</h3>
 
 - 🔭 I finished **The Basic Diploma in AVR with [Eng.Amgad Samir]**
   
-- 🌱 I’m currently working on **The Advanced Embedded systems diploma with [Eng.Amgad Samir]**
+- 🌱 I’m currently working on **The Advanced Embedded systems diploma in ARM with [Eng.Amgad Samir]**
 
 - 💬 Ask me about **Ask me about C programming, AVR, ARM based microcontroller ,Git and Git Extension**
 
