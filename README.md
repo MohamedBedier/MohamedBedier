@@ -1,15 +1,14 @@
-<h1 align="center">Hi,I'm Mohamed Bedier 👋</h1>
-<h3 align="center">I'm a software engineering,Who is interesting in automotive embedded software systems from Egypt</h3>
+<h1 align="center">Hi, I'm Mohamed Bedier 👋</h1>
+<h3 align="center">I'm a software engineer, Interested in automotive embedded software systems from Egypt</h3>
 
 
 ![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6](https://github.com/MohamedBedier/MohamedBedier/assets/113776299/b5e3107d-6057-458d-b834-8808d2f5dfe7)
 
 
-- 🔭 I finished **The Basic Diploma in AVR with [Eng.Amgad Samir]**
-  
-- 🌱 I’m currently working on **The Advanced Embedded systems diploma in ARM with [Eng.Amgad Samir]**
 
-- 💬 Ask me about **Ask me about C programming, AVR, ARM based microcontroller ,Git and Git Extension**
+- 🌱 I’m currently learning **The Advanced Embedded systems diploma in ARM with [Eng.Amgad Samir]**
+
+- 💬 Ask me about **C programming, AVR, ARM based microcontroller ,Git and Git Extension**
 
 - 📫 How to reach me **mohamedbedier604@gmail.com**
 
