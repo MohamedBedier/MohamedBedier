@@ -1,36 +1,56 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h1 align="center">Hi, I'm Mohamed Bedier 👋</h1>
-<h3 align="center">I'm a software developer, Interested in automotive embedded software systems from Egypt</h3>
+
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I'm a software developer, Who is interested in automotive embedded software systems and I'm working hard to be
+unique in this field. </h3>
+
+<h4> 🎓 &nbsp;Education</h4>
+Faculty of Engineering – Mansoura university.
+
+Bachelor's of Mechatronics Engineering (2018 – 2023). 
 
 
-![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6](https://github.com/MohamedBedier/MohamedBedier/assets/113776299/b5e3107d-6057-458d-b834-8808d2f5dfe7)
+- 🌱 &nbsp; I’m currently learning **Advanced Embedded systems diploma in ARM with [Eng.Amgad Samir]**
+
+- 🌱 &nbsp; Aslo Learning more about Microcontrollers , art of embedded system , Embedded Linux and AUTOSAR. 
+
+- 💬 Ask me about **C programming, AVR[ATMega32], PIC, ARM based microcontroller ,Git and Git Extension**
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamedbedier/) [Gmail](https://www.mohamedbedier604@gmail.com)
 
 
-
-- 🌱 I’m currently learning **The Advanced Embedded systems diploma in ARM with [Eng.Amgad Samir]**
-
-- 💬 Ask me about **C programming, AVR, ARM based microcontroller ,Git and Git Extension**
-
-- 📫 How to reach me **mohamedbedier604@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamedbedier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedbedier/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
+- 💻 &nbsp;
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbedier&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbedier" /> </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedbedier&show_icons=true&locale=en&layout=compact" alt="mohamedbedier" /></p>
+### 📊 Profile stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedbedier&show_icons=true&locale=en" alt="mohamedbedier" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedbedier&" alt="mohamedbedier" /></p>
-
-
-
+[![Mohamed Bedier 's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbedier&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+</p>
