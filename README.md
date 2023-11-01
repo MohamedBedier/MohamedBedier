@@ -20,8 +20,9 @@ Bachelor's of Mechatronics Engineering (2018 – 2023).
 
 - 💬 Ask me about **C programming, AVR[ATMega32], PIC, ARM based microcontroller ,Git and Git Extension**
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamedbedier/) [Gmail](https://www.mohamedbedier604@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamedbedier/).
 
+- 📫 Also can you reach me: mohamedbedier604@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
